@@ -25,7 +25,7 @@
 	<param>
 		<name>Sample rate</name>
 		<key>samplerate</key>
-		<value>2084000</value>
+		<value>int(samp_rate)</value>
 		<type>int</type>
 	</param>
 
@@ -87,3 +87,4 @@
 		<nports>1</nports>
 	</sink>
 </block>
+
